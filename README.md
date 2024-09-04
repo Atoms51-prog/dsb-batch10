@@ -13,4 +13,5 @@ My data science and analytic projects
 ## Contact Me
 reach out to me at apupanyo51@gmail.com
 
-##Image
+## Image
+![Deadpool](https://static1.colliderimages.com/wordpress/wp-content/uploads/2024/05/deadpool-shocked-featured.jpeg)
